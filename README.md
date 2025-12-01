@@ -1,1 +1,1 @@
-# minta-kep-beadando
+# Minta és képfelismerés beadandó
